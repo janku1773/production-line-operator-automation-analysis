@@ -1,1 +1,10 @@
-
+PROCESS_STEPS = {
+    "pickup_from_chariot": 20,
+    "close_pistons": 5,
+    "lift_part": 15,
+    "move_to_fixture": 40,
+    "manual_adjustment": 30,
+    "tilt_30_degrees": 10,
+    "open_pistons": 5,
+    "fixture_confirmation": 5
+}
