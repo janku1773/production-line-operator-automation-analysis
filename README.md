@@ -24,9 +24,11 @@ The challenge was to:
 
 - Reduce manpower from **2 operators to 1**
 - Handle a **heavy part** using an automation arm
+- Critical quality standarts for the product (Bodyside of Clio 5)
 - Ensure the operator remains in full control
 - Minimize physical effort and cognitive load
 - Guarantee production throughput is not impacted
+- 250k EUR project budget
 
 The success criteria were:
 - Total cycle time below takt constraints
