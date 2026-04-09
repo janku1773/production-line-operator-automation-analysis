@@ -83,10 +83,11 @@ The project models the process using Python by:
 
 ## Results Summary ##
 
-✔ The defined operator workflow satisfies the production takt time  
-✔ Single-operator solution is viable  
-✔ Operator steps are minimized and standardized  
-✔ The solution is scalable across multiple stations  
+> The defined operator workflow satisfies the production takt time  
+> Single-operator solution is viable  
+> Operator steps are minimized and standardized  
+> The solution is scalable across multiple stations
+> The solution became global best-practice for other factories
 
 This confirms that automation-assisted handling can improve efficiency **without compromising throughput or safety**.
 
